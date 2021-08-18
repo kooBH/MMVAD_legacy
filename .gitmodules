@@ -1,0 +1,3 @@
+[submodule "face_alignment"]
+	path = face_alignment
+	url = https://github.com/1adrianb/face-alignment.git
